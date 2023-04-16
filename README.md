@@ -10,5 +10,6 @@ The R2 scores of each model on the test set are as follows:
 * R2 score for Support Vector Regression (SVR) - 0.80
 * R2 score for Multiple Linear Regression (MLR) - 0.84
 * R2 score for Gradient Boosting Regression - 0.77
-* R2 score for Random Forest Regression - 0.83
+* R2 score for Random Forest Regression - 0.83\
+
 Based on the R2 scores, Multiple Linear Regression performed the best on this dataset.
